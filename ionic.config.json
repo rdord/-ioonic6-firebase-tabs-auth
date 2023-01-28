@@ -1,0 +1,7 @@
+{
+  "name": "ioonic6-firebase-tabs-auth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
